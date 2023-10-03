@@ -6,11 +6,21 @@
 
 !Banner <!-- You can replace this with your own banner -->
 
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
+I am a versatile software engineer with the ability to seamlessly switch between various roles, including Full Stack Web Developer 🌐, ML Engineer 🤖, and DevOps Engineer ⛅, depending on the project's demands. I have a passion for exploring new technology stacks and harnessing them to create innovative solutions.
+
 
 ## 🌱 I’m currently learning ...
 - Azure Cloud
-- DevOps tools
+- DevOps tools such as:
+  
+    - Zabbix
+    - Grafana
+    - iTop
+    - Ansible
+    - Docker
+    - Jenkins
+    - Kubernetes
+    - Git and GitHub Actions
 
 ## 💼 Technical Skills
 - **Programming Languages:** Python, C/C++, Java
@@ -32,12 +42,7 @@ I have worked on several projects that have helped me develop my skills. Here ar
 You can connect with me on [LinkedIn] or drop me an email at pragnasya2835@gmail.com.
 
 ## ⚡ Fun fact:
-I love to read books and play cricket in my free time.
-
-## 📊 Some of my Github Stats
-(Please note: these are just examples, replace with your own stats)
-
-!Github stats
+During my free time, I enjoy delving into the art of culinary delights, crafting delicious dishes, and expressing my creativity through drawing.
 
 ### 📊 Github Stats
   
