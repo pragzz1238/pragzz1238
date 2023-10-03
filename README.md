@@ -20,7 +20,7 @@ I am a versatile software engineer with the ability to seamlessly switch between
     - Kubernetes
     - Git and GitHub Actions
 
-## 💼 Technical Skills
+## 💼 My Tech Stack
 
 - Programming Languages
   
