@@ -42,4 +42,4 @@ I love to read books and play cricket in my free time.
 ### 📊 Github Stats
   
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=pragzz1238&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragzz1238)](https://github.com/pragzz1238/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&theme=transparent)
