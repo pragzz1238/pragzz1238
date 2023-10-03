@@ -22,95 +22,8 @@ I am a versatile software engineer with the ability to seamlessly switch between
 
 ## 💼 Technical Skills
 
-### Programming Languages
-Python <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" width="30"></a> | 
-C <a href="https://devdocs.io/c"><img src="https://skillicons.dev/icons?i=c" width="30"></a> | 
-C++ <a href="https://devdocs.io/c"><img src="https://skillicons.dev/icons?i=cpp" width="30"></a> | 
-Java <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" width="30"></a> | 
-PHP <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" width="30"></a>
 
-### Development Frameworks
-
-Flask <a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask" width="30"></a> |
-React <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="30"></a> |
-Angular <a href="https://angular.io"><img src="https://skillicons.dev/icons?i=angular" width="30"></a> |
-Express.js <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="30"></a> |
-Node.js <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="30"></a>
-
-### Database
-
-MySQL <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="30"></a> |
-MongoDB <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" width="30"></a>
-
-### Frontend Technologies
-
-HTML <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=flask" width="30"></a> |
-CSS <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=react" width="30"></a> |
-JavaScript <a href="https://www.javascript.com"><img src="https://skillicons.dev/icons?i=angular" width="30"></a> |
-TypeScript <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=express" width="30"></a> |
-Bootstrap <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=nodejs" width="30"></a>
-
-### DevOps Tools
-
-Grafana <a href="https://grafana.com"><img src="https://skillicons.dev/icons?i=flask" width="30"></a> |
-Ansible <a href="https://www.ansible.com"><img src="https://skillicons.dev/icons?i=react" width="30"></a> |
-Zabbix |
-iTop |
-Jenkins <a href="https://www.jenkins.io"><img src="https://skillicons.dev/icons?i=angular" width="30"></a> |
-Kubernetes <a href="https://www.kubernetes.io/"><img src="https://skillicons.dev/icons?i=express" width="30"></a> |
-
-### Other Tools
-
-Postman <a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=flask" width="30"></a> |
-Docker <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=react" width="30"></a> |
-Git <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=angular" width="30"></a>
-
-### Programming Languages
-
-- Python <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" width="30"></a>
-- C/C++ <a href="https://devdocs.io/c"><img src="https://skillicons.dev/icons?i=c,cpp" width="60"></a>
-- Java <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" width="30"></a>
-- PHP <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" width="30"></a>
-
-### Development Frameworks
-
-- Flask <a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask" width="30"></a>
-- React <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="30"></a>
-- Angular <a href="https://angular.io"><img src="https://skillicons.dev/icons?i=angular" width="30"></a>
-- Express.js <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="30"></a>
-- Node.js <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="30"></a>
-
-### Database
-
-- MySQL <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="30"></a>
-- MongoDB <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" width="30"></a>
-
-### Frontend Technologies
-
-- HTML <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=flask" width="30"></a>
-- CSS <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=react" width="30"></a>
-- JavaScript <a href="https://www.javascript.com"><img src="https://skillicons.dev/icons?i=angular" width="30"></a>
-- TypeScript <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=express" width="30"></a>
-- Bootstrap <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=nodejs" width="30"></a>
-
-### DevOps Tools
-
-- Grafana <a href="https://grafana.com"><img src="https://skillicons.dev/icons?i=flask" width="30"></a>
-- Ansible <a href="https://www.ansible.com"><img src="https://skillicons.dev/icons?i=react" width="30"></a>
-- Zabbix 
-- iTop
-- Jenkins <a href="https://www.jenkins.io"><img src="https://skillicons.dev/icons?i=angular" width="30"></a>
-- Kubernetes <a href="https://www.kubernetes.io/"><img src="https://skillicons.dev/icons?i=express" width="30"></a>
-
-### Other Tools
-
-- Postman <a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=flask" width="30"></a>
-- Docker <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=react" width="30"></a>
-- Git <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=angular" width="30"></a>
-
-![Programming Languages](https://skillicons.dev/icons?i=py,c,cpp,java,php)
 <br>
-![Development Frameworks](https://skillicons.dev/icons?i=flask,react,angular,express,nodejs)
 <br>
 ![Database](https://skillicons.dev/icons?i=mysql,mongodb)
 <br>
@@ -120,6 +33,28 @@ Git <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=angul
 <br>
 ![Other Tools](https://skillicons.dev/icons?i=postman,docker,git)
 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+
+
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+
+
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-React-05122A?style=flat&logo=mongodb)&nbsp;
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nsbp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 
 ## 🎯 Projects
 I have worked on several projects that have helped me develop my skills. Here are a few:
