@@ -10,14 +10,7 @@ I am a versatile software engineer with the ability to seamlessly switch between
 - Azure Cloud
 - DevOps tools such as:
   
-    - Zabbix
-    - Grafana
-    - iTop
-    - Ansible
-    - Docker
-    - Jenkins
-    - Kubernetes
-    - Git and GitHub Actions
+  - Zabbix, Grafana, iTop, Ansible, Docker, Jenkins, Kubernetes, Git & GitHub Actions
 
 ## 💼 My Tech Stack
 
