@@ -85,8 +85,6 @@ You can connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1
 In my free time, I find joy in the kitchen, experimenting with different recipes and cooking up delicious meals. Additionally, I also love to draw. It's a relaxing activity that allows me to express my creativity.
 
 ## 📊 Github Stats
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=pragzz1238&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&theme=transparent)
 
 <a href='https://github.com/pragzz1238/github-stats-transparent'>
   
