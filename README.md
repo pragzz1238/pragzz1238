@@ -40,10 +40,6 @@ I love to read books and play cricket in my free time.
 !Github stats
 
 ### 📊 Github Stats
-<a href='https://github.com/pragzz1238/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/pragzz1238/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/pragzz1238/github-stats-transparent/output/generated/languages.svg)
-
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=pragzz1238&show_icons=true&theme=transparent)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragzz1238)](https://github.com/pragzz1238/github-readme-stats)
