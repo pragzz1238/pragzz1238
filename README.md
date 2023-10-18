@@ -41,13 +41,6 @@ I am a versatile software engineer with the ability to seamlessly switch between
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 
-- DevOps Tools
-  
-  ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
-  ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
-
 - Other Tools
   
   ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
